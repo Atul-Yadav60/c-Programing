@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "IFELSE.C": "cpp",
+        "1Q.C": "cpp",
+        "START.C": "cpp",
+        "GP.C": "cpp",
+        "PRIMENO.C": "cpp",
+        "STARRT.C": "cpp",
+        "NEW.C": "cpp",
+        "MULTIPLIACTION.C": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
+}
