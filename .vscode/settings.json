@@ -7,7 +7,8 @@
         "PRIMENO.C": "cpp",
         "STARRT.C": "cpp",
         "NEW.C": "cpp",
-        "MULTIPLIACTION.C": "cpp"
+        "MULTIPLIACTION.C": "cpp",
+        "DS_PRACTICLE.C": "cpp"
     },
     "C_Cpp.errorSquiggles": "enabled"
 }
